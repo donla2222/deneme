@@ -5,7 +5,7 @@
 #EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:beIN Sport 1 HD" tvg-logo="https://gitlatte.github.io/m3ueditor/images/kanal-gorselleri/turkiye/bein-sport-1-hd.png?format=jpg&name=small" group-title="Maç Vakti (Intra Gerekli)",TR:beIN Sport 1 HD
 https://andro.yangin1yerihep2sayende.cfd/checklist/androstreamlivebs1.m3u8
 #EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:beIN Sport 1 HD" tvg-logo="https://gitlatte.github.io/m3ueditor/images/kanal-gorselleri/turkiye/bein-sport-1-hd.png?format=jpg&name=small" group-title="Maç Vakti (Intra Gerekli)",TR:beIN Sport 1 HD
-https://trgoal2.metvmetv83.workers.dev/play?id=yayinzirve
+http://metvmetv3.ggff.net/metv/getnew3u/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzEzNTI0MjEwNTMwNDIwMzA5MGM1ZWI=
 #EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:beIN Sport 1 HD" tvg-logo="https://gitlatte.github.io/m3ueditor/images/kanal-gorselleri/turkiye/bein-sport-1-hd.png?format=jpg&name=small" group-title="Maç Vakti (Intra Gerekli)",TR:beIN Sport 1 HD
 https://a.strmrdr-cf-worker-ff3b1c551d.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5062/a.strmrdr-cf-worker-ff3b1c551d.workers.dev/chunklist_hd.m3u8?verify=1755625904132~2a00:1d34:4c36:1301:89f2:7667:bed4:cd6c~fffa5cd4d536aeeb1fc7fcffd44a388c
 #EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:beIN Sport 2 HD" tvg-logo="https://gitlatte.github.io/m3ueditor/images/kanal-gorselleri/turkiye/bein-sport-2-hd.png?format=jpg&name=small" group-title="Maç Vakti (Intra Gerekli)",TR:beIN Sport 2 HD
@@ -344,6 +344,7 @@ https://vbtob9hyq58eiophct5qctxr2.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="TR" tvg-name="TR: TRT Spor HD" tvg-logo="https://yt3.googleusercontent.com/kA9KtHcQ0As2g-IzRq1gZfOaM9hRKkbrV5lfOa-UAOlRQ1dEASvp82tYlOkGwsgzyADXvt0dcQ=s900-c-k-c0x00ffffff-no-rj" group-title="Tabii Orjinal",TR: TRT Spor HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
 https://tv-trtspor1.medya.trt.com.tr/master.m3u8
+
 
 
 
