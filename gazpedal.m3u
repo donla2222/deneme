@@ -2,19 +2,79 @@
 
 # * Maç Vakti (Intra Gerekli) * #
 #EXTM3U
-#EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:beIN Sport 1 HD" tvg-logo="https://gitlatte.github.io/m3ueditor/images/kanal-gorselleri/turkiye/bein-sport-1-hd.png?format=jpg&name=small" group-title="Maç Vakti (Intra Gerekli)",TR:beIN Sport 1 HD
+#EXTINF:-1 tvg-id="sport.tr" tvg-name="beIN Sport 1 HD - A" tvg-logo="https://gitlatte.github.io/m3ueditor/images/kanal-gorselleri/turkiye/bein-sport-1-hd.png?format=jpg&name=small" group-title="Maç Vakti (Intra Gerekli)",beIN Sport 1 HD - A
 https://andro.yangin1yerihep2sayende.cfd/checklist/androstreamlivebs1.m3u8
-#EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:beIN Sport 1 HD" tvg-logo="https://gitlatte.github.io/m3ueditor/images/kanal-gorselleri/turkiye/bein-sport-1-hd.png?format=jpg&name=small" group-title="Maç Vakti (Intra Gerekli)",TR:beIN Sport 1 HD
-https://a.strmrdr-cf-worker-e35caa9b2a.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/-/5062/playlist.m3u8
-#EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:beIN Sport 2 HD" tvg-logo="https://gitlatte.github.io/m3ueditor/images/kanal-gorselleri/turkiye/bein-sport-2-hd.png?format=jpg&name=small" group-title="Maç Vakti (Intra Gerekli)",TR:beIN Sport 2 HD
+#EXTINF:-1 tvg-id="sport.tr" tvg-name="beIN Sport 1 HD - B" tvg-logo="https://gitlatte.github.io/m3ueditor/images/kanal-gorselleri/turkiye/bein-sport-1-hd.png?format=jpg&name=small" group-title="Maç Vakti (Intra Gerekli)",beIN Sport 1 HD - B
+https://a.strmrdr-cf-worker-ff3b1c551d.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5062/a.strmrdr-cf-worker-ff3b1c551d.workers.dev/chunklist_hd.m3u8?verify=1755625904132~2a00:1d34:4c36:1301:89f2:7667:bed4:cd6c~fffa5cd4d536aeeb1fc7fcffd44a388c
+#EXTINF:-1 tvg-id="sport.tr" tvg-name="beIN Sport 1 HD - C" tvg-logo="https://gitlatte.github.io/m3ueditor/images/kanal-gorselleri/turkiye/bein-sport-1-hd.png?format=jpg&name=small" group-title="Maç Vakti (Intra Gerekli)",beIN Sport 1 HD - C
+https://hlssssssssss.asklazmsevmeklazim.workers.dev/https://corestream.corestream.lat//hls/bein-sports-1.m3u8
+#EXTINF:-1 tvg-id="sport.tr" tvg-name="beIN Sport 2 HD - A" tvg-logo="https://gitlatte.github.io/m3ueditor/images/kanal-gorselleri/turkiye/bein-sport-2-hd.png?format=jpg&name=small" group-title="Maç Vakti (Intra Gerekli)",beIN Sport 2 HD - A
 https://andro.yangin1yerihep2sayende.cfd/checklist/androstreamlivebs2.m3u8
-#EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:beIN Sport 3 HD" tvg-logo="https://gitlatte.github.io/m3ueditor/images/kanal-gorselleri/turkiye/bein-sport-3-hd.png?format=jpg&name=small" group-title="Maç Vakti (Intra Gerekli)",TR:beIN Sport 3 HD
+#EXTINF:-1 tvg-id="sport.tr" tvg-name="beIN Sport 2 HD - B" tvg-logo="https://gitlatte.github.io/m3ueditor/images/kanal-gorselleri/turkiye/bein-sport-2-hd.png?format=jpg&name=small" group-title="Maç Vakti (Intra Gerekli)",beIN Sport 2 HD - B
+https://a.strmrdr-cf-worker-ff3b1c551d.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5063/a.strmrdr-cf-worker-ff3b1c551d.workers.dev/chunklist_hd.m3u8?verify=1755626792120~2a00:1d34:4c36:1301:89f2:7667:bed4:cd6c~728f65d6ea7a6788546f41ae5801db25
+#EXTINF:-1 tvg-id="sport.tr" tvg-name="beIN Sport 2 HD - C" tvg-logo="https://gitlatte.github.io/m3ueditor/images/kanal-gorselleri/turkiye/bein-sport-2-hd.png?
+#EXTINF:-1 tvg-id="sport.tr" tvg-name="beIN Sport 3 HD - A" tvg-logo="https://gitlatte.github.io/m3ueditor/images/kanal-gorselleri/turkiye/bein-sport-3-hd.png?format=jpg&name=small" group-title="Maç Vakti (Intra Gerekli)",beIN Sport 3 HD - A
 https://andro.yangin1yerihep2sayende.cfd/checklist/androstreamlivebs3.m3u8
-#EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:beIN Sport 4 HD" tvg-logo="https://gitlatte.github.io/m3ueditor/images/kanal-gorselleri/turkiye/bein-sport-4-hd.png?format=jpg&name=small" group-title="Maç Vakti (Intra Gerekli)",TR:beIN Sport 4 HD
+#EXTINF:-1 tvg-id="sport.tr" tvg-name="beIN Sport 3 HD - B" tvg-logo="https://gitlatte.github.io/m3ueditor/images/kanal-gorselleri/turkiye/bein-sport-3-hd.png?format=jpg&name=small" group-title="Maç Vakti (Intra Gerekli)",beIN Sport 3 HD - B
+https://a.strmrdr-cf-worker-ff3b1c551d.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5064/a.strmrdr-cf-worker-ff3b1c551d.workers.dev/chunklist_hd.m3u8?verify=1755626919413~2a00:1d34:4c36:1301:89f2:7667:bed4:cd6c~7cbd0eb0c813489bc6fda2c4aa6f6f49
+#EXTINF:-1 tvg-id="sport.tr" tvg-name="beIN Sport 3 HD - C" tvg-logo="https://gitlatte.github.io/m3ueditor/images/kanal-gorselleri/turkiye/bein-sport-3-hd.png?
+#EXTINF:-1 tvg-id="sport.tr" tvg-name="beIN Sport 4 HD - A" tvg-logo="https://gitlatte.github.io/m3ueditor/images/kanal-gorselleri/turkiye/bein-sport-4-hd.png?format=jpg&name=small" group-title="Maç Vakti (Intra Gerekli)",beIN Sport 4 HD - A
 https://andro.yangin1yerihep2sayende.cfd/checklist/androstreamlivebs4.m3u8
-#EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:beIN Sport 5 HD" tvg-logo="https://i.imgur.com/iRKfaee.png?format=jpg&name=small" group-title="Maç Vakti (Intra Gerekli)",TR:beIN Sport 5 HD
+#EXTINF:-1 tvg-id="sport.tr" tvg-name="beIN Sport 4 HD - A" tvg-logo="https://gitlatte.github.io/m3ueditor/images/kanal-gorselleri/turkiye/bein-sport-4-hd.png?format=jpg&name=small" group-title="Maç Vakti (Intra Gerekli)",beIN Sport 4 HD - B
+https://a.strmrdr-cf-worker-ff3b1c551d.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5065/a.strmrdr-cf-worker-ff3b1c551d.workers.dev/chunklist_hd.m3u8?verify=1755627211850~2a00:1d34:4c36:1301:89f2:7667:bed4:cd6c~ec8eb7a0724d0868666ee4d09f90edf8
+#EXTINF:-1 tvg-id="sport.tr" tvg-name="beIN Sport 5 HD - A" tvg-logo="https://i.imgur.com/iRKfaee.png?format=jpg&name=small" group-title="Maç Vakti (Intra Gerekli)",beIN Sport 5 HD - A
 https://andro.yangin1yerihep2sayende.cfd/checklist/androstreamlivebs5.m3u8
-
+#EXTINF:-1 tvg-id="sport.tr" tvg-name="beIN Sport 5 HD - B" tvg-logo="https://i.imgur.com/iRKfaee.png?format=jpg&name=small" group-title="Maç Vakti (Intra Gerekli)",beIN Sport 5 HD - B
+https://a.strmrdr-cf-worker-ff3b1c551d.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5066/a.strmrdr-cf-worker-ff3b1c551d.workers.dev/chunklist_hd.m3u8?verify=1755627277460~2a00:1d34:4c36:1301:89f2:7667:bed4:cd6c~53b4a1c89b41c8ba7e000dbb048ac940
+#EXTINF:-1 tvg-id="sport.tr" tvg-name="beIN Sport Max 1 HD - A" tvg-logo="https://tvprofil.com/img/kanali-logo/beIN_Sports_MAX_1_TR_logo_v2.png?1734011561" group-title="Maç Vakti (Intra Gerekli)",beIN Sport Max 1 HD - A
+https://andro.okan9gote10sokan.cfd/checklist/androstreamlivebsm1.m3u8
+#EXTINF:-1 tvg-id="sport.tr" tvg-name="beIN Sport Max 1 HD - B" tvg-logo="https://tvprofil.com/img/kanali-logo/beIN_Sports_MAX_1_TR_logo_v2.png?1734011561" group-title="Maç Vakti (Intra Gerekli)",beIN Sport Max 1 HD - B
+https://a.strmrdr-cf-worker-ff3b1c551d.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5067/a.strmrdr-cf-worker-ff3b1c551d.workers.dev/chunklist_hd.m3u8?verify=1755627594944~2a00:1d34:4c36:1301:89f2:7667:bed4:cd6c~7e1119b82546f9d62756e03e51e942fb
+#EXTINF:-1 tvg-id="sport.tr" tvg-name="beIN Sport Max 2 HD - A" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-sports-max-2-hd-buyuk.png?rkt=DfS6Tgv6Hjr93k3" group-title="Maç Vakti (Intra Gerekli)",beIN Sport Max 2 HD - A
+https://andro.okan9gote10sokan.cfd/checklist/androstreamlivebsm2.m3u8
+#EXTINF:-1 tvg-id="sport.tr" tvg-name="beIN Sport Max 2 HD - B" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-sports-max-2-hd-buyuk.png?rkt=DfS6Tgv6Hjr93k3" group-title="Maç Vakti (Intra Gerekli)",beIN Sport Max 2 HD - B
+hthttps://a.strmrdr-cf-worker-ff3b1c551d.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5068/a.strmrdr-cf-worker-ff3b1c551d.workers.dev/chunklist_hd.m3u8?verify=1755627973368~2a00:1d34:4c36:1301:89f2:7667:bed4:cd6c~b1ef3dc76e1d8579a69c46ce57537138
+#EXTINF:-1 tvg-id="807cfc1d-2420-4ae4-a1b8-14fb9d331def" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/f0f167c1-f2b1-41d0-9713-75c315820713.png" group-title="Maç Vakti (Intra Gerekli)",S Sport
+https://ottcdn.kablowebtv.net/live_turksat_sub3/ssport_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNy8yMDI1IDY6Mjc6MTUgUE0maGFzaF92YWx1ZT1xVWE1SWhZalRZWHZXMnhqM1BoRmFBPT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC4y
+#EXTINF:-1 tvg-id="f29b07a0-ed66-4324-bb69-c359435f3fa1" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/80f415bc-60e4-4dd9-8dc6-6e51d88f6abb.png" group-title="Maç Vakti (Intra Gerekli)",S Sport 2
+https://ottcdn.kablowebtv.net/live_turksat_sub3/ssport2_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNy8yMDI1IDY6Mjc6MTYgUE0maGFzaF92YWx1ZT14RitnTTdnWXZDWUdqS0cya2g0OWdRPT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC4y
+#EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:Tivibu Sport HD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qadnsi1642604437.png" group-title="Maç Vakti (Intra Gerekli)",TR:Tivibu Sport HD
+https://andro.okan9gote10sokan.cfd/checklist/androstreamlivets.m3u8
+#EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:Tivibu Sport 1 HD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qadnsi1642604437.png" group-title="Maç Vakti (Intra Gerekli)",TR:Tivibu Sport 1 HD
+https://andro.okan9gote10sokan.cfd/checklist/androstreamlivets1.m3u8
+#EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:Tivibu Sport 2 HD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qadnsi1642604437.png" group-title="Maç Vakti (Intra Gerekli)",TR:Tivibu Sport 2 HD
+https://andro.okan9gote10sokan.cfd/checklist/androstreamlivets2.m3u8
+#EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:Tivibu Sport 3 HD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qadnsi1642604437.png" group-title="Maç Vakti (Intra Gerekli)",TR:Tivibu Sport 3 HD
+https://andro.okan9gote10sokan.cfd/checklist/androstreamlivets3.m3u8
+#EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:Tivibu Sport 4 HD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qadnsi1642604437.png" group-title="Maç Vakti (Intra Gerekli)",TR:Tivibu Sport 4 HD
+https://andro.okan9gote10sokan.cfd/checklist/androstreamlivets4.m3u8
+#EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:Smart Sport 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/Smart-spor_635084424044881793.png" group-title="Maç Vakti (Intra Gerekli)",TR:Smart Sport 1 HD
+https://andro.okan9gote10sokan.cfd/checklist/androstreamlivesm1.m3u8
+#EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:Smart Sport 2 HD" tvg-logo=https://upload.wikimedia.org/wikipedia/commons/b/b5/Smart-spor_635084424044881793.png" group-title="Maç Vakti (Intra Gerekli)",TR:Smart Sport 2 HD
+https://andro.okan9gote10sokan.cfd/checklist/androstreamlivesm2.m3u8
+#EXTINF:-1 tvg-id="c9d84c8b-5742-48af-bbf1-ac7d176b3c7a" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/54cad412-5f3a-4184-b5fc-d567a5de7160.png" group-title="Maç Vakti (Intra Gerekli)",Eurosport 1
+https://ottcdn.kablowebtv.net/live_turksat_sub3/eurosport1hd_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNy8yMDI1IDY6Mjc6MTcgUE0maGFzaF92YWx1ZT1mdjNGd2xzRVJTTSt4T1JYV0ZkajNBPT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC4y
+#EXTINF:-1 tvg-id="f9f3488e-105d-42ad-b5f5-a0cb3f082971" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/a4cbdd15-1509-408f-a108-65b8f88f2066.png" group-title="Maç Vakti (Intra Gerekli)",Eurosport 2
+https://ottcdn.kablowebtv.net/live_turksat_sub3/eurosport2hd_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNy8yMDI1IDY6Mjc6MTYgUE0maGFzaF92YWx1ZT14RitnTTdnWXZDWUdqS0cya2g0OWdRPT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC4y
+8
+#EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:Exxen HD" tvg-logo="https://cdn.wmaraci.com/post/2023/04/01/143323-64274bd5e7bc3.jpg" group-title="Maç Vakti (Intra Gerekli)",TR:Exxen HD
+https://andro.okan9gote10sokan.cfd/checklist/androstreamliveexn.m3u8
+#EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:Exxen 1 HD" tvg-logo="https://cdn.wmaraci.com/post/2023/04/01/143323-64274bd5e7bc3.jpg" group-title="Maç Vakti (Intra Gerekli)",TR:Exxen 1 HD
+https://andro.okan9gote10sokan.cfd/checklist/androstreamliveexn1.m3u8
+#EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:Exxen 2 HD" tvg-logo="https://cdn.wmaraci.com/post/2023/04/01/143323-64274bd5e7bc3.jpg" group-title="Maç Vakti (Intra Gerekli)",TR:Exxen 2 HD
+https://andro.okan9gote10sokan.cfd/checklist/androstreamliveexn2.m3u8
+#EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:Exxen 3 HD" tvg-logo="https://cdn.wmaraci.com/post/2023/04/01/143323-64274bd5e7bc3.jpg" group-title="Maç Vakti (Intra Gerekli)",TR:Exxen 3 HD
+https://andro.okan9gote10sokan.cfd/checklist/androstreamliveexn3.m3u8
+#EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:Exxen 4 HD" tvg-logo="https://cdn.wmaraci.com/post/2023/04/01/143323-64274bd5e7bc3.jpg" group-title="Maç Vakti (Intra Gerekli)",TR:Exxen 4 HD
+https://andro.okan9gote10sokan.cfd/checklist/androstreamliveexn4.m3u8
+#EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:Exxen 5 HD" tvg-logo="https://cdn.wmaraci.com/post/2023/04/01/143323-64274bd5e7bc3.jpg" group-title="Maç Vakti (Intra Gerekli)",TR:Exxen 5 HD
+https://andro.okan9gote10sokan.cfd/checklist/androstreamliveexn5.m3u8
+#EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:Exxen 6 HD" tvg-logo="https://cdn.wmaraci.com/post/2023/04/01/143323-64274bd5e7bc3.jpg" group-title="Maç Vakti (Intra Gerekli)",TR:Exxen 6 HD
+https://andro.okan9gote10sokan.cfd/checklist/androstreamliveexn6.m3u8
+#EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:Exxen 7 HD" tvg-logo="https://cdn.wmaraci.com/post/2023/04/01/143323-64274bd5e7bc3.jpg" group-title="Maç Vakti (Intra Gerekli)",TR:Exxen 7 HD
+https://andro.okan9gote10sokan.cfd/checklist/androstreamliveexn7.m3u8
+#EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:Exxen 8 HD" tvg-logo="https://cdn.wmaraci.com/post/2023/04/01/143323-64274bd5e7bc3.jpg" group-title="Maç Vakti (Intra Gerekli)",TR:Exxen 8 HD
+https://andro.okan9gote10sokan.cfd/checklist/androstreamliveexn8.m3u8
 
 
 #EXTINF:-1 tvg-id="5d0ed324-9ad2-47b2-8dfe-ab7d54442399" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/22c5fe05-d70b-4c68-98fb-03bae4870e81.png" group-title="Sinema ve Dizi",Sinema Tv
@@ -315,26 +375,29 @@ https://ottcdn.kablowebtv.net/live_turksat_sub3/traceurban_stream/index.m3u8?wms
 # * » Tabii Orjinal « * #
 
 
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="TR" tvg-name="TR: Tâbii Sport HD" tvg-logo="https://i.hizliresim.com/tbwyrvb.jpeg" group-title="Tabii Orjinal",TR: Tâbii Sport HD
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="TR" tvg-name=" Tâbii Sport HD" tvg-logo="https://i.hizliresim.com/tbwyrvb.jpeg" group-title="Tabii Orjinal", Tâbii Sport HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
 https://beert7sqimrk0bfdupfgn6qew.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="TR" tvg-name="TR: Tâbii Sport 1 HD" tvg-logo="https://i.hizliresim.com/tbwyrvb.jpeg" group-title="Tabii Orjinal",TR: Tâbii Sport 1 HD
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="TR" tvg-name=" Tâbii Sport 1 HD" tvg-logo="https://i.hizliresim.com/tbwyrvb.jpeg" group-title="Tabii Orjinal", Tâbii Sport 1 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
 https://iaqzu4szhtzeqd0edpsayinle.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="TR" tvg-name="TR: Tâbii Sport 2 HD" tvg-logo="https://i.hizliresim.com/tbwyrvb.jpeg" group-title="Tabii Orjinal",TR: Tâbii Sport 2 HD
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="TR" tvg-name=" Tâbii Sport 2 HD" tvg-logo="https://i.hizliresim.com/tbwyrvb.jpeg" group-title="Tabii Orjinal", Tâbii Sport 2 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
 https://klublsslubcgyiz7zqt5bz8il.medya.trt.com.tr/master..m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="TR" tvg-name="TR: Tâbii Sport 3 HD" tvg-logo="https://i.hizliresim.com/tbwyrvb.jpeg" group-title="Tabii Orjinal",TR: Tâbii Sport 3 HD
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="TR" tvg-name=" Tâbii Sport 3 HD" tvg-logo="https://i.hizliresim.com/tbwyrvb.jpeg" group-title="Tabii Orjinal", Tâbii Sport 3 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
 https://ujnf69op16x2fiiywxcnx41q8.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="TR" tvg-name="TR: Tâbii Sport 4 HD" tvg-logo="https://i.hizliresim.com/tbwyrvb.jpeg" group-title="Tabii Orjinal",TR: Tâbii Sport 4 HD
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="TR" tvg-name=" Tâbii Sport 4 HD" tvg-logo="https://i.hizliresim.com/tbwyrvb.jpeg" group-title="Tabii Orjinal", Tâbii Sport 4 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
 https://bfxy3jgeydpbphtk8qfqwm3hr.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="TR" tvg-name="TR: Tâbii Sport 5 HD" tvg-logo="https://i.hizliresim.com/tbwyrvb.jpeg" group-title="Tabii Orjinal",TR: Tâbii Sport 5 HD
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="TR" tvg-name=" Tâbii Sport 5 HD" tvg-logo="https://i.hizliresim.com/tbwyrvb.jpeg" group-title="Tabii Orjinal", Tâbii Sport 5 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
 https://z3mmimwz148csv0vaxtphqspf.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="TR" tvg-name="TR: Tâbii Sport 6 HD" tvg-logo="https://i.hizliresim.com/tbwyrvb.jpeg" group-title="Tabii Orjinal",TR: Tâbii Sport 6 HD
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="TR" tvg-name=" Tâbii Sport 6 HD" tvg-logo="https://i.hizliresim.com/tbwyrvb.jpeg" group-title="Tabii Orjinal", Tâbii Sport 6 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
 https://vbtob9hyq58eiophct5qctxr2.medya.trt.com.tr/master.m3u8
+
+
+
 
 
