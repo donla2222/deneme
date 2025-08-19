@@ -2,12 +2,13 @@
 
 # * Maç Vakti (Intra Gerekli) * #
 #EXTM3U
-#EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:beIN Sport 1 HD" tvg-logo="https://gitlatte.github.io/m3ueditor/images/kanal-gorselleri/turkiye/bein-sport-1-hd.png?format=jpg&name=small" group-title="Maç Vakti (Intra Gerekli)",TR:beIN Sport 1 HD
+#EXTINF:-1 tvg-id="sport.tr" tvg-name="beIN Sport 1 HD - A" tvg-logo="https://gitlatte.github.io/m3ueditor/images/kanal-gorselleri/turkiye/bein-sport-1-hd.png?format=jpg&name=small" group-title="Maç Vakti (Intra Gerekli)",beIN Sport 1 HD - A
 https://andro.yangin1yerihep2sayende.cfd/checklist/androstreamlivebs1.m3u8
-#EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:beIN Sport 1 HD" tvg-logo="https://gitlatte.github.io/m3ueditor/images/kanal-gorselleri/turkiye/bein-sport-1-hd.png?format=jpg&name=small" group-title="Maç Vakti (Intra Gerekli)",TR:beIN Sport 1 HD
-http://metvmetv3.ggff.net/metv/getnew3u/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzEzNTI0MjEwNTMwNDIwMzA5MGM1ZWI=
-#EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:beIN Sport 1 HD" tvg-logo="https://gitlatte.github.io/m3ueditor/images/kanal-gorselleri/turkiye/bein-sport-1-hd.png?format=jpg&name=small" group-title="Maç Vakti (Intra Gerekli)",TR:beIN Sport 1 HD
+#EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:beIN Sport 1 HD - B" tvg-logo="https://gitlatte.github.io/m3ueditor/images/kanal-gorselleri/turkiye/bein-sport-1-hd.png?format=jpg&name=small" group-title="Maç Vakti (Intra Gerekli)",beIN Sport 1 HD - B
 https://a.strmrdr-cf-worker-ff3b1c551d.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5062/a.strmrdr-cf-worker-ff3b1c551d.workers.dev/chunklist_hd.m3u8?verify=1755625904132~2a00:1d34:4c36:1301:89f2:7667:bed4:cd6c~fffa5cd4d536aeeb1fc7fcffd44a388c
+#EXTINF:-1 tvg-id="sport.tr" tvg-name="beIN Sport 1 HD - C" tvg-logo="https://gitlatte.github.io/m3ueditor/images/kanal-gorselleri/turkiye/bein-sport-1-hd.png?format=jpg&name=small" group-title="Maç Vakti (Intra Gerekli)",beIN Sport 1 HD - C
+https://hlssssssssss.asklazmsevmeklazim.workers.dev/https://corestream.corestream.lat//hls/bein-sports-1.m3u8
+
 #EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:beIN Sport 2 HD" tvg-logo="https://gitlatte.github.io/m3ueditor/images/kanal-gorselleri/turkiye/bein-sport-2-hd.png?format=jpg&name=small" group-title="Maç Vakti (Intra Gerekli)",TR:beIN Sport 2 HD
 https://andro.yangin1yerihep2sayende.cfd/checklist/androstreamlivebs2.m3u8
 #EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:beIN Sport 3 HD" tvg-logo="https://gitlatte.github.io/m3ueditor/images/kanal-gorselleri/turkiye/bein-sport-3-hd.png?format=jpg&name=small" group-title="Maç Vakti (Intra Gerekli)",TR:beIN Sport 3 HD
@@ -337,6 +338,7 @@ https://z3mmimwz148csv0vaxtphqspf.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="TR" tvg-name="TR: Tâbii Sport 6 HD" tvg-logo="https://i.hizliresim.com/tbwyrvb.jpeg" group-title="Tabii Orjinal",TR: Tâbii Sport 6 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
 https://vbtob9hyq58eiophct5qctxr2.medya.trt.com.tr/master.m3u8
+
 
 
 
