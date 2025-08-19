@@ -315,9 +315,6 @@ https://ottcdn.kablowebtv.net/live_turksat_sub3/traceurban_stream/index.m3u8?wms
 # * » Tabii Orjinal « * #
 
 
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="TR" tvg-name="TR: Tâbii HD" tvg-logo="https://i.hizliresim.com/tbwyrvb.jpeg" group-title="Tabii Orjinal",TR: Tâbii HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
-https://playlist.fasttvcdn.com/pl/0ijezatwsvi5a5khny0rka/tabii-Turkcell-2/playlist.m3u8
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="TR" tvg-name="TR: Tâbii Sport HD" tvg-logo="https://i.hizliresim.com/tbwyrvb.jpeg" group-title="Tabii Orjinal",TR: Tâbii Sport HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
 https://beert7sqimrk0bfdupfgn6qew.medya.trt.com.tr/master.m3u8
@@ -339,7 +336,5 @@ https://z3mmimwz148csv0vaxtphqspf.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="TR" tvg-name="TR: Tâbii Sport 6 HD" tvg-logo="https://i.hizliresim.com/tbwyrvb.jpeg" group-title="Tabii Orjinal",TR: Tâbii Sport 6 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
 https://vbtob9hyq58eiophct5qctxr2.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="TR" tvg-name="TR: TRT Spor HD" tvg-logo="https://yt3.googleusercontent.com/kA9KtHcQ0As2g-IzRq1gZfOaM9hRKkbrV5lfOa-UAOlRQ1dEASvp82tYlOkGwsgzyADXvt0dcQ=s900-c-k-c0x00ffffff-no-rj" group-title="Tabii Orjinal",TR: TRT Spor HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
-https://tv-trtspor1.medya.trt.com.tr/master.m3u8
+
 
